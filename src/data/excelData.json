@@ -1,0 +1,1493 @@
+{
+  "holiday-data.xls": {
+    "tableName": "holidays",
+    "headers": [
+      {
+        "col": "title",
+        "label": "Title"
+      },
+      {
+        "col": "date",
+        "label": "Date"
+      },
+      {
+        "col": "status",
+        "label": "Status"
+      },
+      {
+        "col": "created_at",
+        "label": "Created At"
+      },
+      {
+        "col": "updated_at",
+        "label": "Updated At"
+      },
+      {
+        "col": "created_by",
+        "label": "Created By"
+      },
+      {
+        "col": "updated_by",
+        "label": "Updated By"
+      }
+    ],
+    "rows": [
+      {
+        "title": "Republic Day",
+        "date": "January 26th, 2023",
+        "status": "Published",
+        "created_at": "2023-09-02 09:41:11",
+        "updated_at": "2026-01-07 08:55:01",
+        "created_by": "",
+        "updated_by": ""
+      },
+      {
+        "title": "Independence Day",
+        "date": "August 15th, 2023",
+        "status": "Published",
+        "created_at": "2023-09-02 09:41:52",
+        "updated_at": "2026-01-07 08:55:01",
+        "created_by": "",
+        "updated_by": ""
+      },
+      {
+        "title": "Gandhi Jayanti",
+        "date": "2nd October, 2023",
+        "status": "Published",
+        "created_at": "2023-09-02 09:42:22",
+        "updated_at": "2026-01-07 08:55:01",
+        "created_by": "",
+        "updated_by": ""
+      },
+      {
+        "title": "Holi",
+        "date": "8th March, 2023",
+        "status": "Published",
+        "created_at": "2023-09-02 09:43:46",
+        "updated_at": "2026-01-07 08:55:01",
+        "created_by": "",
+        "updated_by": ""
+      },
+      {
+        "title": "Diwali",
+        "date": "10th November, 2023 â€“ 14th November, 2023",
+        "status": "Published",
+        "created_at": "2023-09-02 09:45:46",
+        "updated_at": "2026-01-07 08:55:01",
+        "created_by": "",
+        "updated_by": ""
+      },
+      {
+        "title": "Eid-ul-Fitr",
+        "date": "22nd April, 2023",
+        "status": "Published",
+        "created_at": "2023-09-02 09:47:03",
+        "updated_at": "2026-01-07 08:55:01",
+        "created_by": "",
+        "updated_by": ""
+      },
+      {
+        "title": "Eid al-Adha",
+        "date": "29th June, 2023",
+        "status": "Published",
+        "created_at": "2023-09-02 09:47:59",
+        "updated_at": "2026-01-07 08:55:01",
+        "created_by": "",
+        "updated_by": ""
+      },
+      {
+        "title": "Christmas",
+        "date": "25th December, 2023",
+        "status": "Published",
+        "created_at": "2023-09-02 09:48:41",
+        "updated_at": "2026-01-07 08:55:01",
+        "created_by": "",
+        "updated_by": ""
+      },
+      {
+        "title": "Makar Sankranti",
+        "date": "14th January, 2023",
+        "status": "Published",
+        "created_at": "2023-09-02 09:49:18",
+        "updated_at": "2026-01-07 08:55:01",
+        "created_by": "",
+        "updated_by": ""
+      },
+      {
+        "title": "Ganesh Chaturthi",
+        "date": "19th September, 2023",
+        "status": "Published",
+        "created_at": "2023-09-02 09:49:58",
+        "updated_at": "2026-01-07 08:55:01",
+        "created_by": "",
+        "updated_by": ""
+      },
+      {
+        "title": "Navratri",
+        "date": "15th October, 2023",
+        "status": "Published",
+        "created_at": "2023-09-02 09:51:01",
+        "updated_at": "2026-01-07 08:55:01",
+        "created_by": "",
+        "updated_by": ""
+      },
+      {
+        "title": "Raksha Bandhan",
+        "date": "30th August, 2023",
+        "status": "Published",
+        "created_at": "2023-09-02 09:51:53",
+        "updated_at": "2026-01-07 08:55:01",
+        "created_by": "",
+        "updated_by": ""
+      },
+      {
+        "title": "Raksha Bandhan",
+        "date": "20-NOV-2023",
+        "status": "Raksha Bandhan",
+        "created_at": "2023-11-29 10:33:45",
+        "updated_at": "2026-01-07 08:55:01",
+        "created_by": "",
+        "updated_by": ""
+      }
+    ]
+  },
+  "notice-data.xls": {
+    "tableName": "notice",
+    "headers": [
+      {
+        "col": "title",
+        "label": "Title"
+      },
+      {
+        "col": "description",
+        "label": "Description"
+      },
+      {
+        "col": "status",
+        "label": "Status"
+      },
+      {
+        "col": "created_at",
+        "label": "Created At"
+      },
+      {
+        "col": "updated_at",
+        "label": "Updated At"
+      },
+      {
+        "col": "created_by",
+        "label": "Created By"
+      },
+      {
+        "col": "updated_by",
+        "label": "Updated By"
+      }
+    ],
+    "rows": [
+      {
+        "title": "Admissions Now Open for 2026–2027!",
+        "description": "Admissions Now Open for 2026–2027! Start your journey toward success with our prestigious programs. Secure your spot today and shape your future. Apply Now!",
+        "status": "Published",
+        "created_at": "2025-01-09 10:14:30",
+        "updated_at": "2026-01-12 08:11:39",
+        "created_by": "",
+        "updated_by": ""
+      },
+      {
+        "title": "Notice for collage competition",
+        "description": "Dear Parents, All are hereby informed that the Collage Competition will be held on Friday 9th August 2024.",
+        "status": "Draft",
+        "created_at": "2024-01-17 10:21:50",
+        "updated_at": "2026-01-07 08:49:06",
+        "created_by": "",
+        "updated_by": ""
+      },
+      {
+        "title": "Requesting for Auto Driver details as per new guidelines of Maharashtra Govt. (Education Dept.)",
+        "description": "Dear Parents, As per the new&nbsp;guidelines of Maharashtra Govt.&nbsp;(Education Dept.) parents of the wards who are committing to school by private auto rickshaw are requested to submit the below mentioned details: - Name of Auto Driver&nbsp; - Mobile No. of Auto Driver - Passport size photo of the Driver&nbsp; - RTO registration number of the Auto - Batch number of the Driver&nbsp; Kindly submit the details by 31st August, 2024",
+        "status": "Draft",
+        "created_at": "2024-08-30 12:13:04",
+        "updated_at": "2026-01-07 08:49:06",
+        "created_by": "",
+        "updated_by": ""
+      }
+    ]
+  },
+  "news-data.xls": {
+    "tableName": "news",
+    "headers": [
+      {
+        "col": "title",
+        "label": "Title"
+      },
+      {
+        "col": "description",
+        "label": "Description"
+      },
+      {
+        "col": "image",
+        "label": "Image"
+      },
+      {
+        "col": "status",
+        "label": "Status"
+      },
+      {
+        "col": "created_at",
+        "label": "Created At"
+      },
+      {
+        "col": "updated_at",
+        "label": "Updated At"
+      },
+      {
+        "col": "created_by",
+        "label": "Created By"
+      },
+      {
+        "col": "updated_by",
+        "label": "Updated By"
+      }
+    ],
+    "rows": [
+      {
+        "title": "S.S.C. RESULT 2023-24 ð“ðŽððð„ð‘",
+        "description": "श्री सिद्धि विनायक इंग्लिश हाई स्कूल एस.एस.सी. परीक्षा परिणाम 2023–24 🏆 टॉपर 🏆 रैंक 1: भानुशाली ध्रुव अशोक : 97.30% रैंक 2: चौधरी पियूष गंगाधर : 97.40% रैंक 3: जाधव ऋतुजा दिनेश : 97.20% रैंक 3: साईंदाने चैत्रा आर. : 97.20%",
+        "image": "2024-05-30IMG-20240529-WA0002.jpg",
+        "status": "Published",
+        "created_at": "2024-05-27 15:33:27",
+        "updated_at": "2026-08-11 04:52:01",
+        "created_by": "",
+        "updated_by": "1"
+      },
+      {
+        "title": "Silver medal won by Riddhi Shirodkar",
+        "description": "Riddhi Shirodkar secures a silver medal, showcasing exceptional skill and determination. Her outstanding performance in the competition earns her well-deserved recognition. Congratulations to Riddhi Shirodkar on this remarkable achievement!",
+        "image": "",
+        "status": "Published",
+        "created_at": "2024-01-29 10:59:53",
+        "updated_at": "2026-01-07 08:55:01",
+        "created_by": "",
+        "updated_by": ""
+      },
+      {
+        "title": "Proud to Announce 100 % Result in SSC Examination 2024",
+        "description": "We are thrilled to announce that our school has achieved a cent percent result in the SSC examinations this year! This outstanding accomplishment is a testament to the hard work, dedication, and perseverance of our students, the unwavering support of their parents, and the exceptional guidance provided by our teachers and staff. Let us celebrate this milestone and continue to strive for excellence in all our future endeavors Congratulations to all the students for passing with flying colours!",
+        "image": "",
+        "status": "Published",
+        "created_at": "2024-05-27 15:14:37",
+        "updated_at": "2026-01-07 08:55:01",
+        "created_by": "",
+        "updated_by": ""
+      },
+      {
+        "title": "SPORTS : Andheri 10k Challenge Run.",
+        "description": "SPORTS : Andheri 10k Challenge Run. It was held on Andheri sports complex on 15 September 2024. Tanishka Subhash Damodare Secured 3rd place in Under 17 Girls Category 5 KM Run.",
+        "image": "2024-09-161 Final.jpg",
+        "status": "Published",
+        "created_at": "2024-09-16 12:27:12",
+        "updated_at": "2026-01-07 08:55:01",
+        "created_by": "",
+        "updated_by": ""
+      },
+      {
+        "title": "SPORTS: Weight Lifting Mumbai Suburban District Level Competition 2024",
+        "description": "Weight Lifting Mumbai Suburban District Level Competition 2024 1) Siddhesh singh 1st place (Weight Category 89+) 2) Junaid Shaikh : 2nd place (Weight Category 71) 3) Varad Panhale : 3rd place (Weight Category 102+)",
+        "image": "2024-09-162 Final.jpg",
+        "status": "Published",
+        "created_at": "2024-09-16 12:31:28",
+        "updated_at": "2026-01-07 08:55:01",
+        "created_by": "",
+        "updated_by": ""
+      },
+      {
+        "title": "Sports : National Open Karate Championship",
+        "description": "National Open karate Championship 1) Ananya Jadhav - 8/B - (Kata -Gold / Kumite -Gold) 2) Mohd Hammad Saheb - 3/B - (Kata -Gold/ Kumite - Gold) 3) Mohd Raza Saheb - 8/B - (Kata - Gold / Kumite - Gold) 4) Mohit Jagtap - 9/C - (Kata- Gold / Kumite -Silver ) 5) Sachi Utekar - 6/B - ( Kata - Silver/ Kumite - Silver ) 6) Swarup Talekar - 8/A - (Kata - Silver/ Kumite - Silver ) 7) Sakibur Rahman - 8/A - (Kata - Silver/ Kumite - Bronze ) &nbsp; Gold - 7&nbsp; Silver-6&nbsp; Bronze-1",
+        "image": "2024-09-251.jpeg,2024-09-252.jpeg",
+        "status": "Published",
+        "created_at": "2024-09-25 16:21:23",
+        "updated_at": "2026-01-07 08:55:01",
+        "created_by": "",
+        "updated_by": ""
+      },
+      {
+        "title": "Achievements (September 2024)",
+        "description": "",
+        "image": "2024-10-07WhatsApp Image 2024-10-05 at 10.20.38 AM.jpeg",
+        "status": "Published",
+        "created_at": "2024-10-07 15:49:04",
+        "updated_at": "2026-01-07 08:55:01",
+        "created_by": "",
+        "updated_by": ""
+      },
+      {
+        "title": "Elocution competition 2024",
+        "description": "\"Speech is power: speech is to persuade, to convert, to compel.\" Elocution competition was held on 8th October, 2024 by our active students from std 5th to 10th. Students had actively participated with full energy and true spirit.",
+        "image": "2024-10-101.jpg",
+        "status": "Published",
+        "created_at": "2024-10-10 09:18:13",
+        "updated_at": "2026-01-07 08:55:01",
+        "created_by": "",
+        "updated_by": ""
+      },
+      {
+        "title": "Object Talk Competition",
+        "description": "Each student brought a special object, sharing fascinating details and stories that demonstrated their curiosity and enthusiasm for learning.",
+        "image": "2024-10-101 OT.jpg,2024-10-10KG OT.jpg",
+        "status": "Published",
+        "created_at": "2024-10-10 13:04:37",
+        "updated_at": "2026-01-07 08:55:01",
+        "created_by": "",
+        "updated_by": ""
+      },
+      {
+        "title": "Achievements at KIO Federation Cup Premier and Youth League National Karate League Championship (Delhi)",
+        "description": "Outstanding achievements of our students, trained by the Akshay Sir, at the KIO Federation Cup Premier and Youth League National Karate League Championship in Delhi! Our proud winners are: Mohit Jagtap (9/C) Gold (Kumite) Bronze (Kata) Ananya Jadhav (8/B) Silver (Kumite) Bronze (Kata) Raza Saheb (8/B) Bronze (Kata) Hammad Saheb (3/B) Bronze (Kata) Total medals won: 6 (1 Gold, 1 Silver, and 4 Bronze).",
+        "image": "2024-11-27WhatsApp Image 2024-11-27 at 3.58.34 PM.jpeg,2024-11-27WhatsApp Image 2024-11-27 at 3.58.36 PM.jpeg",
+        "status": "Published",
+        "created_at": "2024-11-27 16:52:42",
+        "updated_at": "2026-01-07 08:55:01",
+        "created_by": "",
+        "updated_by": ""
+      }
+    ]
+  },
+  "Events-data.xls": {
+    "tableName": "events",
+    "headers": [
+      {
+        "col": "title",
+        "label": "Title"
+      },
+      {
+        "col": "description",
+        "label": "Description"
+      },
+      {
+        "col": "image",
+        "label": "Image"
+      },
+      {
+        "col": "status",
+        "label": "Status"
+      },
+      {
+        "col": "created_by",
+        "label": "Created By"
+      },
+      {
+        "col": "updated_by",
+        "label": "Updated By"
+      },
+      {
+        "col": "created_at",
+        "label": "Created At"
+      },
+      {
+        "col": "updated_at",
+        "label": "Updated At"
+      }
+    ],
+    "rows": [
+      {
+        "title": "Creativity on a plate: where cold dishes become culinary masterpieces.",
+        "description": "The cold meal competition!! which was held in our school \"Shree Siddhi Vinayagar English High school\" and it was an amazing experience. From preparing and presenting their dishes to seeing the creativity of my fellow students, it was a fantastic event. They learned so much and had a lot of fun. Looking forward to more opportunities like this in the future!",
+        "image": "dishes.jpg",
+        "status": "Published",
+        "created_by": "",
+        "updated_by": "",
+        "created_at": "2024-01-17 10:27:03",
+        "updated_at": "2026-01-07 08:55:01"
+      },
+      {
+        "title": "Our Science Exhibition is a showcase of the thrilling expedition that is science education.",
+        "description": "Dive into the world of discovery, where every experiment is a voyage, and every question is a compass. Our Science Exhibition is a showcase of the thrilling expedition that is science education.\" Our school Shree Siddhi Vinayagar English High School is hosting a captivating Science Exhibition on 12th, 13th and 14th December 2023. Theme: Science and Technology for Society. The event is aimed to not only display the students' projects but also to ignite a passion for science among both participants and visitors.&nbsp;",
+        "image": "science.jpg",
+        "status": "Published",
+        "created_by": "",
+        "updated_by": "",
+        "created_at": "2024-01-17 10:28:54",
+        "updated_at": "2026-01-07 08:55:01"
+      },
+      {
+        "title": "The science of today is the technology of tomorrow",
+        "description": "The science of today is the technology of tomorrow.\" Event: Second Day Wednesday 13th December 2023. Science Exhibition and Interschool Competition was organised in our school Shree Siddhi Vinayagar English High school. Today's special guest of honour: Mrs Aruna Panchal Mr Viraj Jagtap Mr Dilip Jain (RJ) Students showcase innovative science projects. Judges evaluate projects based on creativity, scientific accuracy, and presentation. Attendees explore interactive displays and engage with the exhibitors. Recognition and prizes for outstanding science exhibition projects. Winners of the interschool competition announced and awarded. Closing remarks and expressions of gratitude.",
+        "image": "technology.jpg",
+        "status": "Published",
+        "created_by": "",
+        "updated_by": "",
+        "created_at": "2024-01-17 10:32:48",
+        "updated_at": "2026-01-07 08:55:01"
+      }
+    ]
+  },
+  "faculity-admin-data.xls": {
+    "tableName": "faculty",
+    "headers": [
+      {
+        "col": "name",
+        "label": "Name"
+      },
+      {
+        "col": "designation",
+        "label": "Designation"
+      },
+      {
+        "col": "image",
+        "label": "Image"
+      },
+      {
+        "col": "created_at",
+        "label": "Created At"
+      },
+      {
+        "col": "updated_at",
+        "label": "Updated At"
+      },
+      {
+        "col": "created_by",
+        "label": "Created By"
+      },
+      {
+        "col": "updated_by",
+        "label": "Updated By"
+      }
+    ],
+    "rows": [
+      {
+        "name": "MS. RENUKA SINGH",
+        "designation": "PRINCIPAL",
+        "image": "",
+        "created_at": "2024-07-08 11:08:14",
+        "updated_at": "2026-01-07 08:55:01",
+        "created_by": "",
+        "updated_by": ""
+      },
+      {
+        "name": "MR. AJAY SINGH",
+        "designation": "VICE-PRINCIPAL",
+        "image": "",
+        "created_at": "2024-01-17 11:51:20",
+        "updated_at": "2026-01-07 08:55:01",
+        "created_by": "",
+        "updated_by": ""
+      },
+      {
+        "name": "MRS. AKILADEVI NAGESWARAN",
+        "designation": "SECONDARY SUPERVISOR",
+        "image": "",
+        "created_at": "2024-01-17 11:51:41",
+        "updated_at": "2026-01-07 08:55:01",
+        "created_by": "",
+        "updated_by": ""
+      },
+      {
+        "name": "MRS. UMA CHINTA",
+        "designation": "HEAD MISTRESS",
+        "image": "",
+        "created_at": "2025-07-18 09:58:11",
+        "updated_at": "2026-01-07 08:55:01",
+        "created_by": "",
+        "updated_by": ""
+      }
+    ]
+  },
+  "complaint-data.xls": {
+    "tableName": "complaints",
+    "headers": [
+      {
+        "col": "name",
+        "label": "Name"
+      },
+      {
+        "col": "email",
+        "label": "Email"
+      },
+      {
+        "col": "phone",
+        "label": "Phone"
+      },
+      {
+        "col": "gr",
+        "label": "Gr"
+      },
+      {
+        "col": "complaint",
+        "label": "Complaint"
+      },
+      {
+        "col": "created_by",
+        "label": "Created By"
+      },
+      {
+        "col": "updated_by",
+        "label": "Updated By"
+      },
+      {
+        "col": "created_at",
+        "label": "Created At"
+      },
+      {
+        "col": "updated_at",
+        "label": "Updated At"
+      }
+    ],
+    "rows": [
+      {
+        "name": "Kishore Namdeo Shelar",
+        "email": "k_shelar@yahoo.com",
+        "phone": "9372854319",
+        "gr": "0420463 / 087665",
+        "complaint": "Request for school leaving certificate. 10th passing year March-1994",
+        "created_by": "",
+        "updated_by": "",
+        "created_at": "2025-09-30 00:00:00",
+        "updated_at": "2026-01-07 08:55:00"
+      }
+    ]
+  },
+  "Awards-data.xls": {
+    "tableName": "awards",
+    "headers": [
+      {
+        "col": "title",
+        "label": "Title"
+      },
+      {
+        "col": "type",
+        "label": "Type"
+      },
+      {
+        "col": "file",
+        "label": "File"
+      },
+      {
+        "col": "created_by",
+        "label": "Created By"
+      },
+      {
+        "col": "updated_by",
+        "label": "Updated By"
+      },
+      {
+        "col": "created_at",
+        "label": "Created At"
+      },
+      {
+        "col": "updated_at",
+        "label": "Updated At"
+      }
+    ],
+    "rows": [
+      {
+        "title": "Silver medal won by Riddhi Shirodkar",
+        "type": "Sports",
+        "file": "2024-01-17WhatsApp Image 2024-01-16 at 11.36.08 AM.jpeg",
+        "created_by": "",
+        "updated_by": "",
+        "created_at": "2024-01-17 10:37:53",
+        "updated_at": "2026-01-07 08:55:00"
+      },
+      {
+        "title": "Skating Championship",
+        "type": "Sports",
+        "file": "2025-01-08FotoJet.jpg",
+        "created_by": "",
+        "updated_by": "",
+        "created_at": "2025-01-08 11:26:09",
+        "updated_at": "2026-01-07 08:55:00"
+      },
+      {
+        "title": "2nd Runner-up in the RSP competition",
+        "type": "Sports",
+        "file": "2025-01-09WhatsApp Image 2025-01-09 at 9.07.33 AM.jpeg",
+        "created_by": "",
+        "updated_by": "",
+        "created_at": "2025-01-09 04:35:46",
+        "updated_at": "2026-01-07 08:55:00"
+      }
+    ]
+  },
+  "media-coverage-data.xls": {
+    "tableName": "media-coverage",
+    "headers": [
+      {
+        "col": "title",
+        "label": "Title"
+      },
+      {
+        "col": "file",
+        "label": "File"
+      },
+      {
+        "col": "created_by",
+        "label": "Created By"
+      },
+      {
+        "col": "updated_by",
+        "label": "Updated By"
+      },
+      {
+        "col": "created_at",
+        "label": "Created At"
+      },
+      {
+        "col": "updated_at",
+        "label": "Updated At"
+      }
+    ],
+    "rows": [
+      {
+        "title": "Silver medal won by Riddhi Shirodkar in Sports for all interschool competition",
+        "file": "2025-09-23x123.png",
+        "created_by": "",
+        "updated_by": "",
+        "created_at": "2024-01-16 11:50:36",
+        "updated_at": "2026-01-07 08:55:01"
+      }
+    ]
+  },
+  "form-data.xls": {
+    "tableName": "forms",
+    "headers": [
+      {
+        "col": "title",
+        "label": "Title"
+      },
+      {
+        "col": "file",
+        "label": "File"
+      },
+      {
+        "col": "created_by",
+        "label": "Created By"
+      },
+      {
+        "col": "updated_by",
+        "label": "Updated By"
+      },
+      {
+        "col": "created_at",
+        "label": "Created At"
+      },
+      {
+        "col": "updated_at",
+        "label": "Updated At"
+      }
+    ],
+    "rows": []
+  },
+  "alumni-data.xls": {
+    "tableName": "memberships",
+    "headers": [
+      {
+        "col": "first_name",
+        "label": "First Name"
+      },
+      {
+        "col": "last_name",
+        "label": "Last Name"
+      },
+      {
+        "col": "batch",
+        "label": "Batch"
+      },
+      {
+        "col": "division",
+        "label": "Division"
+      },
+      {
+        "col": "address",
+        "label": "Address"
+      },
+      {
+        "col": "phone",
+        "label": "Phone"
+      },
+      {
+        "col": "email",
+        "label": "Email"
+      },
+      {
+        "col": "blood_group",
+        "label": "Blood Group"
+      },
+      {
+        "col": "education",
+        "label": "Education"
+      },
+      {
+        "col": "work_type",
+        "label": "Work Type"
+      },
+      {
+        "col": "designation",
+        "label": "Designation"
+      },
+      {
+        "col": "hobbies",
+        "label": "Hobbies"
+      },
+      {
+        "col": "alma_matar",
+        "label": "Alma Matar"
+      },
+      {
+        "col": "journey",
+        "label": "Journey"
+      },
+      {
+        "col": "photo",
+        "label": "Photo"
+      },
+      {
+        "col": "star",
+        "label": "Star"
+      },
+      {
+        "col": "status",
+        "label": "Status"
+      },
+      {
+        "col": "updated_by",
+        "label": "Updated By"
+      },
+      {
+        "col": "created_at",
+        "label": "Created At"
+      },
+      {
+        "col": "updated_at",
+        "label": "Updated At"
+      }
+    ],
+    "rows": [
+      {
+        "first_name": "Zainab",
+        "last_name": "Shaikh",
+        "batch": "2005-2006",
+        "division": "",
+        "address": "Room no 4388/371 Group No.4, Tagore Nagar, Vikhroli east Mumbai",
+        "phone": "09867774163",
+        "email": "zs4787090@gmail.com",
+        "blood_group": "",
+        "education": "B.A Diploma in ECCEd",
+        "work_type": "service",
+        "designation": "Teacher",
+        "hobbies": "Reading, exploring new places, Learning new skills.",
+        "alma_matar": "",
+        "journey": "From being a student of this school to becoming a teacher, my journey has been meaningful. After completing B.A. and ECCEd, I am now working as a Pre-Primary Teacher and feel thankful for the strong foundation my school has given me.",
+        "photo": "uploads/members/1788754257.jpg",
+        "star": "Yes",
+        "status": "Published",
+        "updated_by": "1",
+        "created_at": "2026-09-07 04:10:57",
+        "updated_at": "2026-09-07 04:54:29"
+      },
+      {
+        "first_name": "KASHIF",
+        "last_name": "KHAN",
+        "batch": "2025-26",
+        "division": "",
+        "address": "",
+        "phone": "9920415170",
+        "email": "khankashif82657@gmail.com",
+        "blood_group": "",
+        "education": "10th passout",
+        "work_type": "",
+        "designation": "",
+        "hobbies": "",
+        "alma_matar": "",
+        "journey": "",
+        "photo": "uploads/members/1787852508.jpeg",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-27 17:41:48",
+        "updated_at": "2026-08-27 17:41:48"
+      },
+      {
+        "first_name": "KASHIF",
+        "last_name": "KHAN",
+        "batch": "2025-26 10th",
+        "division": "",
+        "address": "",
+        "phone": "9920415170",
+        "email": "khankashan82657@gmail.com",
+        "blood_group": "",
+        "education": "10th passout",
+        "work_type": "",
+        "designation": "",
+        "hobbies": "",
+        "alma_matar": "",
+        "journey": "",
+        "photo": "uploads/members/1787852408.jpeg",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-27 17:40:08",
+        "updated_at": "2026-08-27 17:40:08"
+      },
+      {
+        "first_name": "Manasvi",
+        "last_name": "Shinde",
+        "batch": "2020-2021",
+        "division": "",
+        "address": "Vishwashanti soc bldg no A1 5th floor room no 503 Kanjurmarg Karvenagar east Mumbai pincode 400042",
+        "phone": "9321773438",
+        "email": "manasvishinde886@gmail.com",
+        "blood_group": "",
+        "education": "Graduation",
+        "work_type": "service",
+        "designation": "Back office executive",
+        "hobbies": "Dance Reading",
+        "alma_matar": "",
+        "journey": "Career, personal growth, creative,support, education",
+        "photo": "uploads/members/1787663659.jpg",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-25 13:14:19",
+        "updated_at": "2026-08-25 13:14:19"
+      },
+      {
+        "first_name": "Ashwini",
+        "last_name": "Dongre",
+        "batch": "2005",
+        "division": "",
+        "address": "2/9 Kunta devi chawl rambhajan compound hariyali village Vikhroli east mumbai 400083",
+        "phone": "+91 77188 79177",
+        "email": "ashwinidongre03161@gmail.com",
+        "blood_group": "",
+        "education": "B.A.Ded",
+        "work_type": "home_maker",
+        "designation": "House wife",
+        "hobbies": "Art and craft,painting",
+        "alma_matar": "",
+        "journey": "My journey with school is so far helpful",
+        "photo": "uploads/members/1787486501.jpg",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-23 12:01:41",
+        "updated_at": "2026-08-23 12:01:41"
+      },
+      {
+        "first_name": "SABIHA",
+        "last_name": "MULLA",
+        "batch": "2012-2013",
+        "division": "",
+        "address": "1A, MK CHAWL GROUP NO 03, NEAR BUDHA VIHAR BEHIND 03 POLICE CHOWKI, VIKHROLI EAST MUMBAI 400083",
+        "phone": "9619668944",
+        "email": "sabihamulla1989@gmail.com",
+        "blood_group": "",
+        "education": "MCOM",
+        "work_type": "home_maker",
+        "designation": "NIL",
+        "hobbies": "Basketball, volleyball, Football, Reading Newspapers or Magzines, writing, listening music, Rope skipping.",
+        "alma_matar": "",
+        "journey": "Very good",
+        "photo": "uploads/members/1787192999.jpg",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-20 02:29:59",
+        "updated_at": "2026-08-20 02:29:59"
+      },
+      {
+        "first_name": "Hemant",
+        "last_name": "Panigrahi",
+        "batch": "2025-2026",
+        "division": "",
+        "address": "Room no.1, Leelabai Dhabade Chawl, Hariyali Village, Vikhroli East, Mumbai -400083",
+        "phone": "9082014297",
+        "email": "arushipanigrahi11@gmail.com",
+        "blood_group": "",
+        "education": "Grade5",
+        "work_type": "",
+        "designation": "-",
+        "hobbies": "Playing games",
+        "alma_matar": "",
+        "journey": "Till grade 10",
+        "photo": "uploads/members/1787157090.jpg",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-19 16:31:30",
+        "updated_at": "2026-08-19 16:31:30"
+      },
+      {
+        "first_name": "SABIHA",
+        "last_name": "MULLA",
+        "batch": "626318",
+        "division": "",
+        "address": "1A, MK CHAWL, GROUP NO 03, MASJID GALI LANE, NEAR BUDHA VIHAR, BEHIND 03 POLICE CHOWKI, VIKHROLI EAST, MUMBAI 400083",
+        "phone": "9619668944",
+        "email": "aafaque_mulla@yahoo.com",
+        "blood_group": "",
+        "education": "MBA",
+        "work_type": "home_maker",
+        "designation": "",
+        "hobbies": "",
+        "alma_matar": "",
+        "journey": "",
+        "photo": "uploads/members/1787063287.jpg",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-18 14:28:07",
+        "updated_at": "2026-08-18 14:28:07"
+      },
+      {
+        "first_name": "Ambrin",
+        "last_name": "Siddiqui",
+        "batch": "2001 - 2002",
+        "division": "",
+        "address": "2/1, M.K Chawl, Tagore nagar , group no 3, Vikhroli East , Mumbai 400083",
+        "phone": "9773935785",
+        "email": "ambrinsid786@gmail.com",
+        "blood_group": "",
+        "education": "BSc B.Ed",
+        "work_type": "service",
+        "designation": "Asst. Teacher",
+        "hobbies": "Teaching , exploring , social media",
+        "alma_matar": "",
+        "journey": "Won many prizes in interschool competition like monoacting , dramas, science drama . Every year getting prize in science exhibition",
+        "photo": "uploads/members/1787058739.jpg",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-18 13:12:19",
+        "updated_at": "2026-08-18 13:12:19"
+      },
+      {
+        "first_name": "Arzaan",
+        "last_name": "Khan",
+        "batch": "2026-27",
+        "division": "",
+        "address": "Aminabi chawl,room no 8 near gogri lab group no 1 tagore nagar Vikhroli east mumbai 400083",
+        "phone": "+917738005248",
+        "email": "alfishakhan6901@gmail.com",
+        "blood_group": "",
+        "education": "Hsc pass",
+        "work_type": "service",
+        "designation": "Nothing",
+        "hobbies": "Hobbi is teaching",
+        "alma_matar": "",
+        "journey": "Yes",
+        "photo": "uploads/members/1786996915.png",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-17 20:01:55",
+        "updated_at": "2026-08-17 20:01:55"
+      },
+      {
+        "first_name": "Snehal",
+        "last_name": "Konda",
+        "batch": "1/b",
+        "division": "",
+        "address": "vikhroli east",
+        "phone": "9004269832",
+        "email": "snehalvk36@gmail.com",
+        "blood_group": "",
+        "education": "12 th pass",
+        "work_type": "service",
+        "designation": "Ligal assistant",
+        "hobbies": "cooking",
+        "alma_matar": "",
+        "journey": "Village",
+        "photo": "uploads/members/1786989076.jpg",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-17 17:51:16",
+        "updated_at": "2026-08-17 17:51:16"
+      },
+      {
+        "first_name": "Shubhra",
+        "last_name": "Wadkar",
+        "batch": "2023",
+        "division": "",
+        "address": "Flat no 106,Bld no 7/C,near shatkar hall, kannamwar Nagar 2, Vikhroli east",
+        "phone": "9324977648",
+        "email": "shubhrawadkar23@gmail.com",
+        "blood_group": "",
+        "education": "SY Bsc.Computer Science",
+        "work_type": "professional",
+        "designation": "Student",
+        "hobbies": "Reading,drawing,music,travelling,coding and learning new skills",
+        "alma_matar": "",
+        "journey": "My journey so far has been a wonderful learning experience. I have worked hard in my studies, learned from my experiences, and developed new skills along the way. I am grateful to my family, teachers, and friends for their support. I look forward to learning more, improving myself, and achieving my goals in the future.",
+        "photo": "uploads/members/1786982025.jpg",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-17 15:53:45",
+        "updated_at": "2026-08-17 15:53:45"
+      },
+      {
+        "first_name": "Bhavya",
+        "last_name": "Jain",
+        "batch": "2022-2023",
+        "division": "",
+        "address": "243/3302, AdiSambhav Nivas, Old Modi Hospital Lane, Tagore Nagar, Vikhroli (E)",
+        "phone": "9152430619",
+        "email": "jbhavya458@gmail.com",
+        "blood_group": "",
+        "education": "Student",
+        "work_type": "service",
+        "designation": "BDS",
+        "hobbies": "Reading",
+        "alma_matar": "",
+        "journey": "Wonderful",
+        "photo": "uploads/members/1786980723.jpg",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-17 15:32:03",
+        "updated_at": "2026-08-17 15:32:03"
+      },
+      {
+        "first_name": "Archi",
+        "last_name": "Vaishya",
+        "batch": "2021-22",
+        "division": "",
+        "address": "Amina bai chawl, Tagore Nagar, Hariyalli Village, Vikhroli east, Mumbai 400083",
+        "phone": "9699563738",
+        "email": "aarchivaishya07@gmail.com",
+        "blood_group": "",
+        "education": "B.Com (Commerce) – Ramniranjan Jhunjhunwala College, University of Mumbai | Pursuing CFA Program",
+        "work_type": "professional",
+        "designation": "B.Com Student | CFA Program Candidate | Entrepreneur | Running a successful self-made bakery brand",
+        "hobbies": "Financial Markets & Investing | Financial Literacy | Entrepreneurship | Reading | Business & Economics | Personal Development | Baking & Creative Entrepreneurship | Finance content creator | Teaching",
+        "alma_matar": "",
+        "journey": "I am a B.Com student, CFA Program Candidate, and entrepreneur, currently building my journey toward a career in finance while running a home bakery business alongside my studies. But before I became interested in finance, entrepreneurship, or the markets, there was a school that helped shape the person I am today. I am a proud alumnus of Shree Siddhi Vinayagar English High School, from the 2021–22 batch. When I look back at my school years, I realise that many of the qualities I rely on today were not learned from a textbook. One of the most meaningful parts of my school journey was training in martial arts under Akshay Sir and eventually earning my Black Belt. The Black Belt was never just a designation for me. The real achievement was everything it taught me along the way — discipline when I didn't feel motivated, consistency when progress was slow, patience when things didn't happen immediately, and the habit of showing up and doing the work. Those lessons stayed with me long after I left school. I am deeply grateful to Akshay Sir for being an important mentor in that journey, and to every teacher and mentor who, in their own way, contributed to the person I am becoming. Some lessons from school are remembered as chapters in a textbook; others quietly become part of your character. I believe mine did the latter. After school, I chose Commerce and began my journey at Ramniranjan Jhunjhunwala College, University of Mumbai. Over time, I developed a strong interest in finance, financial markets, investing and understanding how businesses and capital work. That curiosity eventually led me toward the CFA Program. Today, I am studying areas such as equity analysis, portfolio management, corporate finance, investment analysis and professional ethics—not simply to pass an examination, but because I genuinely want to understand how the financial world works. At the same time, I have been building something completely different from my finance journey: my own home bakery business. Starting a business from home has taught me lessons that no classroom could fully teach me—how to understand customers, manage costs, maintain quality, deal with uncertainty, take responsibility when things go wrong, and keep improving when nobody is forcing you to. My journey has also had its share of difficult setbacks and challenges. There have been moments when life tested me physically, mentally and emotionally. But if there is one thing I have learned from all of it, it is this: **You may not always control what happens to you, but you can decide whether you will stand back up.** The discipline I learned through martial arts, the curiosity I developed through education, the courage required to build a business, and the resilience developed through difficult moments are all becoming part of the professional I am trying to build. I am still learning. Still making mistakes. Still figuring things out. And I don't want to pretend otherwise. My goal is not simply to collect qualifications or titles. I want to become someone who combines financial knowledge with discipline, entrepreneurial thinking, integrity and the ability to create meaningful value for others. I also document my journey through my **Student → Analyst** series, sharing what I learn about finance, investing and professional development in the hope that someone else can learn alongside me. And wherever my career takes me, I want to remain connected to where my journey began. I don't see my school as just a place I attended between certain years. It is one of the places that helped shape who I became. I hope that as I grow, I can return not only as an alumnus, but as someone who can contribute—by mentoring students, sharing what I have learned, creating awareness about careers and financial literacy, and helping the next generation believe that their starting point does not have to define their destination. **Forever grateful for the teachers, mentors, friends and experiences that helped shape my foundation.** **Still learning. Still building. Still becoming.**",
+        "photo": "uploads/members/1786979336.png",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-17 15:08:56",
+        "updated_at": "2026-08-17 15:08:56"
+      },
+      {
+        "first_name": "Hemant",
+        "last_name": "Panigrahi",
+        "batch": "5 th secondary section",
+        "division": "",
+        "address": "Leelabai dawarde chawl hariyali village Vikhroli East Tagore Nagar",
+        "phone": "7666185955",
+        "email": "panigrahimonalisha714@gmail.com",
+        "blood_group": "",
+        "education": "SSc",
+        "work_type": "home_maker",
+        "designation": "",
+        "hobbies": "",
+        "alma_matar": "",
+        "journey": "",
+        "photo": "uploads/members/1786975635.jpg",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-17 14:07:15",
+        "updated_at": "2026-08-17 14:07:15"
+      },
+      {
+        "first_name": "Ashutosh",
+        "last_name": "Padhi",
+        "batch": "Jr kg",
+        "division": "",
+        "address": "Lilabai dhabade chawl Hariyali village Vikhroli east station road",
+        "phone": "9867938404",
+        "email": "santoshinipadhi55@gmail.com",
+        "blood_group": "",
+        "education": "12th",
+        "work_type": "home_maker",
+        "designation": "",
+        "hobbies": "",
+        "alma_matar": "",
+        "journey": "",
+        "photo": "uploads/members/1786975376.jpg",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-17 14:02:56",
+        "updated_at": "2026-08-17 14:02:56"
+      },
+      {
+        "first_name": "Arya",
+        "last_name": "Iswalkar",
+        "batch": "2021-2022",
+        "division": "",
+        "address": "Marathon A wing, Sankalp siddhi CHS, karve nagar, kanjurmarg east",
+        "phone": "8788067645",
+        "email": "iswalkararya@gmail.com",
+        "blood_group": "",
+        "education": "Currently in 3rd year Bpharmacy",
+        "work_type": "",
+        "designation": "",
+        "hobbies": "Drawing, reading books",
+        "alma_matar": "",
+        "journey": "Currently I am studying Bachelors in Pharmacy. Soon I will be graduate",
+        "photo": "uploads/members/1786975173.jpg",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-17 13:59:33",
+        "updated_at": "2026-08-17 13:59:33"
+      },
+      {
+        "first_name": "Iqra",
+        "last_name": "Mulla",
+        "batch": "2013 and 2014",
+        "division": "",
+        "address": "Group no 3, Chawl no 301, Room no 3786, 1st floor, Tagore Nagar, Vikhroli East 400083",
+        "phone": "9137974291",
+        "email": "iqramulla.26@gmail.com",
+        "blood_group": "",
+        "education": "Graduation",
+        "work_type": "home_maker",
+        "designation": "House Wife",
+        "hobbies": "Reading books",
+        "alma_matar": "",
+        "journey": "My journey is too good with my teachers and staff english communication were superb and weekly activity too good",
+        "photo": "uploads/members/1786970990.jpg",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-17 12:49:50",
+        "updated_at": "2026-08-17 12:49:50"
+      },
+      {
+        "first_name": "Gazala Kamruddin",
+        "last_name": "Shaikh",
+        "batch": "4th std 2026",
+        "division": "",
+        "address": "Room no 3724,chawl no 293,grp no 2 ,tagore Nagar,Sagar chs, Vikhroli east 83",
+        "phone": "7977345842",
+        "email": "gazalas429@gmail.com",
+        "blood_group": "",
+        "education": "B.A",
+        "work_type": "",
+        "designation": "",
+        "hobbies": "",
+        "alma_matar": "",
+        "journey": "",
+        "photo": "uploads/members/1786962248.jpg",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-17 10:24:08",
+        "updated_at": "2026-08-17 10:24:08"
+      },
+      {
+        "first_name": "Namrata",
+        "last_name": "Ghokshe",
+        "batch": "2009",
+        "division": "",
+        "address": "4/351/4212, Tagore nagar, Vikhroli east, Mumbai-400083",
+        "phone": "9990138258",
+        "email": "namrata.ghokshe15@gmail.com",
+        "blood_group": "",
+        "education": "MBA",
+        "work_type": "service",
+        "designation": "Sr. Manager",
+        "hobbies": "Dance, zumba,",
+        "alma_matar": "",
+        "journey": "I have a strong academic background having completed my Bpharma from Mumbai University and MBA(pharma) from Niper Mohali which is directly under ministry of chemical and fertilizer",
+        "photo": "uploads/members/1786958284.jpg",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-17 09:18:04",
+        "updated_at": "2026-08-17 09:18:04"
+      },
+      {
+        "first_name": "Rupal",
+        "last_name": "Verma",
+        "batch": "2004",
+        "division": "",
+        "address": "901, Aniruddh residency, plot no 69, sector 35, kamothe",
+        "phone": "98330 00229",
+        "email": "rupalverma2608@gmail.com",
+        "blood_group": "",
+        "education": "BE CIVIL",
+        "work_type": "service",
+        "designation": "Senior Engineer",
+        "hobbies": "",
+        "alma_matar": "",
+        "journey": "",
+        "photo": "uploads/members/1786886801.jpg",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-16 13:26:41",
+        "updated_at": "2026-08-16 13:26:41"
+      },
+      {
+        "first_name": "Akshay",
+        "last_name": "Parab",
+        "batch": "2008",
+        "division": "",
+        "address": "1 wagh chawl utkarsh nagar tp road bhadnup west",
+        "phone": "8655427407",
+        "email": "akshay.p2012@gmail.com",
+        "blood_group": "",
+        "education": "Bcom",
+        "work_type": "service",
+        "designation": "Manager",
+        "hobbies": "Cricket ,swimming, tracking",
+        "alma_matar": "",
+        "journey": "",
+        "photo": "uploads/members/1786845512.jpeg",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-16 01:58:32",
+        "updated_at": "2026-08-16 01:58:32"
+      },
+      {
+        "first_name": "Amruta",
+        "last_name": "Shreenilayam",
+        "batch": "2009",
+        "division": "",
+        "address": "G3 Vyanktesh Darshan chs Samrat chowk Dombivli west",
+        "phone": "98924 27033",
+        "email": "ammuanita1@gmail.com",
+        "blood_group": "",
+        "education": "Graduate",
+        "work_type": "business",
+        "designation": "",
+        "hobbies": "Baking, Fashion designing, Reading",
+        "alma_matar": "",
+        "journey": "Completed school, college passed CA Foundation and lost my dad. Focused on business and supporting my family. The discipline and the structure school provided me helped to in every aspect of my life to build strength and resilience. The teachers and their love, dedication and caring approach towards us is still inspiration for me. And the fact that teachers do still remember us feels like a blessing.",
+        "photo": "uploads/members/1786821767.jpg",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-15 19:22:47",
+        "updated_at": "2026-08-15 19:22:47"
+      },
+      {
+        "first_name": "Aasif",
+        "last_name": "Ansari",
+        "batch": "2009",
+        "division": "",
+        "address": "",
+        "phone": "9930959314",
+        "email": "aaasif.ansari143@gmail.com",
+        "blood_group": "",
+        "education": "BE",
+        "work_type": "service",
+        "designation": "",
+        "hobbies": "",
+        "alma_matar": "",
+        "journey": "",
+        "photo": "uploads/members/1786819420.jpeg",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-15 18:43:40",
+        "updated_at": "2026-08-15 18:43:40"
+      },
+      {
+        "first_name": "Sakib",
+        "last_name": "Khan",
+        "batch": "2009",
+        "division": "",
+        "address": "Kurla",
+        "phone": "9892361689",
+        "email": "sakibk3@gmail.com",
+        "blood_group": "",
+        "education": "MBA",
+        "work_type": "service",
+        "designation": "NA",
+        "hobbies": "NA",
+        "alma_matar": "",
+        "journey": "NA",
+        "photo": "uploads/members/1786816595.png",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-15 17:56:35",
+        "updated_at": "2026-08-15 17:56:35"
+      },
+      {
+        "first_name": "Sadanand",
+        "last_name": "Gupta",
+        "batch": "2009",
+        "division": "",
+        "address": "04 shrinika shrishti apartment, Tukaram chowk, Dawadi Gaon, Dombivli East",
+        "phone": "8652885239",
+        "email": "sgsadanand@gmail.com",
+        "blood_group": "",
+        "education": "MCA",
+        "work_type": "professional",
+        "designation": "Software Developer",
+        "hobbies": "Chess, Carrom",
+        "alma_matar": "",
+        "journey": "After completing my schooling, I pursued my graduation in B.Sc. IT from Vikas College. I then started my professional journey in the marketing sector, which gave me valuable experience and helped me develop strong communication and professional skills. In 2026, I completed my MCA from Swayam Siddhi College of Management and Research, marking an important milestone in my career. With a passion for technology and software development, I transitioned into the IT field and am now working in my dream role as a Software Developer at Big Picture Software, with 2 years of professional experience. Looking back, my journey has been a combination of learning, challenges, and growth. I am grateful for the experiences and opportunities that have helped me reach where I am today, and I look forward to achieving many more milestones in the future.",
+        "photo": "uploads/members/1786813948.jpg",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-15 17:12:28",
+        "updated_at": "2026-08-15 17:12:28"
+      },
+      {
+        "first_name": "Saiganesh",
+        "last_name": "Poojary",
+        "batch": "2009",
+        "division": "",
+        "address": "",
+        "phone": "9920679068",
+        "email": "saiganeshpoojary@gmail.com",
+        "blood_group": "",
+        "education": "Bcom",
+        "work_type": "service",
+        "designation": "ACM",
+        "hobbies": "Volleyball Ball, Throw Ball",
+        "alma_matar": "",
+        "journey": "",
+        "photo": "uploads/members/1786813512.png",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-15 17:05:12",
+        "updated_at": "2026-08-15 17:05:12"
+      },
+      {
+        "first_name": "Ramesh",
+        "last_name": "R",
+        "batch": "2000",
+        "division": "",
+        "address": "Ramnivas, kedamangalam, north Paravoor, ernakulam, kerala",
+        "phone": "08589011332",
+        "email": "rameshramachandran2009@gmail.com",
+        "blood_group": "",
+        "education": "B tech mechanical engineer",
+        "work_type": "professional",
+        "designation": "Senior sales Manager",
+        "hobbies": "Listening music and travelling",
+        "alma_matar": "",
+        "journey": "Best",
+        "photo": "uploads/members/1786813083.jpg",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-15 16:58:03",
+        "updated_at": "2026-08-15 16:58:03"
+      },
+      {
+        "first_name": "Gause",
+        "last_name": "Khan",
+        "batch": "2009",
+        "division": "",
+        "address": "M abdullah chawl group no 2 room no 2/7 haryali village Vikhroli East Mumbai 400083",
+        "phone": "8108035805",
+        "email": "itssk28@gmail.com",
+        "blood_group": "",
+        "education": "Tybcom",
+        "work_type": "service",
+        "designation": "Customer service manager",
+        "hobbies": "Riding and explore new thingf",
+        "alma_matar": "",
+        "journey": "Very good",
+        "photo": "uploads/members/1786812992.jpg",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-15 16:56:32",
+        "updated_at": "2026-08-15 16:56:32"
+      },
+      {
+        "first_name": "Dr Jay",
+        "last_name": "Savla",
+        "batch": "March 2009 SSC",
+        "division": "",
+        "address": "G18, Anmol Nayantara Gold, Mumbai Agra Highway, Pathardi , Nashik , Maharashtra 422009",
+        "phone": "9004747420",
+        "email": "jaysavla2000@gmail.com",
+        "blood_group": "",
+        "education": "B.A.M.S.",
+        "work_type": "business",
+        "designation": "Doctor, Businessman",
+        "hobbies": "Business",
+        "alma_matar": "",
+        "journey": "A Doctor Owner of Pharmaceutical Company Social service in following NGO's : BAPS, KYS, NCC, AYURVED VYASPEETH",
+        "photo": "uploads/members/1786812206.jpg",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-15 16:43:26",
+        "updated_at": "2026-08-15 16:43:26"
+      },
+      {
+        "first_name": "Diya",
+        "last_name": "Rita",
+        "batch": "2025-26",
+        "division": "",
+        "address": "8/905,Swastik pearl tagore Nagar vikhroli east",
+        "phone": "7977851948",
+        "email": "diyarita06@gmail.com",
+        "blood_group": "",
+        "education": "FYJC",
+        "work_type": "",
+        "designation": "",
+        "hobbies": "",
+        "alma_matar": "",
+        "journey": "",
+        "photo": "uploads/members/1786769268.jpg",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "Admin",
+        "created_at": "2026-08-15 04:47:48",
+        "updated_at": "2026-08-15 04:47:48"
+      },
+      {
+        "first_name": "Vidya",
+        "last_name": "Mankar",
+        "batch": "2003-2005",
+        "division": "",
+        "address": "A wing 302 Sai mauli Building asde Gav Dombiwali East 400703",
+        "phone": "8291679967",
+        "email": "vidya.mankar@gmail.com",
+        "blood_group": "",
+        "education": "B.Tech",
+        "work_type": "service",
+        "designation": "Engineer",
+        "hobbies": "Reading, Financial Research, Community Volunteering, and Playing Sports.",
+        "alma_matar": "",
+        "journey": "Professional Focus: Financial Analysis, Accounting Technologies, Personal Finance Management, Tax Planning. General Interests: Reading, Community Service, Playing Cricket/Football, Travelling, Mentoring Students. Combined / Standard Entry: Reading, Financial Research, Community Volunteering, and Playing Sports.",
+        "photo": "uploads/members/1786512033.jpg",
+        "star": "false",
+        "status": "Draft",
+        "updated_by": "anandupy000@gmail.com",
+        "created_at": "2026-08-12 05:20:33",
+        "updated_at": "2026-08-12 05:20:33"
+      },
+      {
+        "first_name": "Manisha",
+        "last_name": "Sawant",
+        "batch": "1994",
+        "division": "",
+        "address": "Regency Park 3, B 1 Flat No 306 Netivali Kalyan East 421306",
+        "phone": "8108761902",
+        "email": "mrunalkamble2016@gmail.com",
+        "blood_group": "",
+        "education": "M. A, BEd.",
+        "work_type": "professional",
+        "designation": "Teacher",
+        "hobbies": "I am Passionate about dance and cultural performances. Interested in acting, dramatics, and stage presentation. Enjoy sketching, drawing etc",
+        "alma_matar": "",
+        "journey": "I once entered this school as a young student with dreams in my eyes, and today I stand here as a dedicated teacher inspiring hundreds of students. My journey from a student to a respected teacher in my own school is truly inspiring and proves that hard work, values, and determination always bring us back to our roots with pride.",
+        "photo": "uploads/members/1777009156.jpg",
+        "star": "Yes",
+        "status": "Draft",
+        "updated_by": "1",
+        "created_at": "2026-04-24 05:39:16",
+        "updated_at": "2026-08-07 05:26:01"
+      }
+    ]
+  }
+}

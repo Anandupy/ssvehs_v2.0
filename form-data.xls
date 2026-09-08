@@ -1,0 +1,4 @@
+<table class="table align-middle" id="dynamicTable" data-table-name="forms">
+                                <thead class="sticky-top"><tr><th data-col="title">Title</th><th data-col="file">File</th><th data-col="created_by">Created By</th><th data-col="updated_by">Updated By</th><th data-col="created_at">Created At</th><th data-col="updated_at">Updated At</th></tr></thead>
+                                <tbody></tbody>
+                            </table>
